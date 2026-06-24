@@ -1,3 +1,4 @@
-Breakfast,30.0
-Lunch,50.0
-Dinner,80.0
+Description,Amount,Category,Date
+Burger,250.0,Food,2026-06-23
+Bus ticket,100.0,Travel,2026-06-23
+shoes,800.0,Shopping,2026-06-23
