@@ -30,17 +30,12 @@ Expense Tracker/
 
 ## How to Run
 
-1. Clone this repository:
-   ```
-   git clone <https://github.com/harshadavpatil7792-arch/python-internship-task1/edit/main/README.md>
-   ```
-
-2. Open the project folder:
+1. Open the project folder:
    ```
    cd Expense-Tracker
    ```
 
-3. Run the program:
+2. Run the program:
    ```
    python expense_tracker.py
    ```
